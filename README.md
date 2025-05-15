@@ -31,9 +31,21 @@ Se observa cómo el árbol se va formando paso a paso, y cómo el programa impri
 Al insertar el número 3, el nodo 30 se desbalancea con un patrón LL (Izquierda–Izquierda), por lo que se aplica automáticamente una rotación simple a la derecha en el nodo 30.
 Esto equilibra el árbol, manteniendo la propiedad AVL sin intervención del usuario.
 
-### Entrada desde consola
+Instrucciones para ejecutar
+Asegúrate de tener Java instalado.
 
-```bash
-Ingresa un número: 30
-Ingresa un número: 20
-Ingresa un número: 10
+Abre una terminal en la carpeta del proyecto.
+
+Compila todos los archivos:
+
+javac *.java
+Ejecuta el programa:
+
+java Main
+Ingresa números uno por uno.
+
+Escribe "exit" o -1 para finalizar.
+
+Enlace al video de YouTube
+
+https://www.youtube.com/watch?v=eJilPYUcfAs
